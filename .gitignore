@@ -6,3 +6,4 @@
 out/
 # Python stuff
 examples/**/venv
+venv/
